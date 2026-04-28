@@ -110,17 +110,6 @@ Estou reorganizando meus repositórios públicos para que eles mostrem melhor mi
 | `clean-architecture-api` | API bem testada com casos de uso, repositórios e controllers | Node.js ou .NET, PostgreSQL, Docker, Testcontainers |
 | `realtime-dashboard-lab` | Dashboard com filtros, cache, atualização em tempo real e métricas | React, TanStack Query, WebSockets/SSE |
 
----
-
-## O que recrutadores podem observar aqui
-
-- Experiência full-stack em produto real, não apenas CRUD isolado
-- Capacidade de atuar em frontend, backend, banco, cloud e testes
-- Familiaridade com IA generativa aplicada a produto
-- Preocupação com arquitetura, segurança, qualidade e operação
-- Evolução pública em andamento, com foco em repositórios mais demonstráveis
-
----
 
 <div align="center">
 
