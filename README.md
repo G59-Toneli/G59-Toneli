@@ -103,13 +103,6 @@ Tenho trabalhado em produtos SaaS B2B com requisitos reais de produto, seguranç
 
 Estou reorganizando meus repositórios públicos para que eles mostrem melhor minha experiência atual. A ideia é manter poucos projetos, mas com README, arquitetura clara, testes e deploy.
 
-| Projeto | Objetivo | Stack sugerida |
-| --- | --- | --- |
-| `saas-multitenant-starter` | Exemplo de SaaS com auth, tenants, billing fake e dashboard | Next.js, TypeScript, Prisma, PostgreSQL, Playwright |
-| `ai-rag-chat-demo` | Chat com IA usando embeddings e contexto persistido | Next.js, PostgreSQL, pgvector, OpenAI/Claude |
-| `clean-architecture-api` | API bem testada com casos de uso, repositórios e controllers | Node.js ou .NET, PostgreSQL, Docker, Testcontainers |
-| `realtime-dashboard-lab` | Dashboard com filtros, cache, atualização em tempo real e métricas | React, TanStack Query, WebSockets/SSE |
-
 
 <div align="center">
 
