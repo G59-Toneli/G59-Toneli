@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=Gustavo+Toneli;Full-Stack+Developer;SaaS+multi-tenant%2C+IA+generativa+e+produtos+em+produção" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=Gustavo+Toneli;Full-Stack+Developer;SaaS+multi-tenant%2C+IA+generativa+e+produtos+em+producao" alt="Typing SVG" />
 
   <p>
     Desenvolvedor Full-Stack focado em produtos SaaS, arquitetura limpa, testes e integrações com IA generativa.
